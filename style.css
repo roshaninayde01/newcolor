@@ -1,0 +1,49 @@
+.btn{
+    width: 100px;
+    height:180px;
+    border-radius:5%;
+    border: transparent;
+    font-size: 30px;
+}
+.button{
+    cursor: pointer;
+    border: transparent;
+    width: 100px;
+    height: 30px;
+    margin: 10px;
+    font-size:20px;
+    border-radius: 10px;
+    
+}
+.box {
+    padding-top: 300px;
+    padding-left: 300px;
+}
+.colorbtn{
+    padding-top: 290px;
+    padding-left: 30px;
+}.btn{
+    width: 100px;
+    height:180px;
+    border-radius:5%;
+    border: transparent;
+    font-size: 30px;
+}
+.button{
+    cursor: pointer;
+    border: transparent;
+    width: 100px;
+    height: 30px;
+    margin: 10px;
+    font-size:20px;
+    border-radius: 10px;
+    
+}
+.box {
+    padding-top: 300px;
+    padding-left: 300px;
+}
+.colorbtn{
+    padding-top: 290px;
+    padding-left: 30px;
+}
